@@ -1,0 +1,5 @@
+'has_subseq-correct', (0, 66)
+'neighbor_digits-correct', (512, 66)
+'num_eights-correct', (1024, 66)
+'count_coins-correct', (1536, 66)
+'pingpong-correct', (2048, 66)
